@@ -28,7 +28,7 @@
 
 | Service | Status |
 | :-- | :--: |
-| 🔭 **Observability & Monitoring**<br/><sub>Dashboards, alerts & pipelines at scale · `3+ yrs uptime`</sub> | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) |
+| 🔭 **Observability & Monitoring**<br/><sub>Dashboards, alerts & pipelines at scale · `4+ yrs uptime`</sub> | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) |
 | 🚨 **Incident Response**<br/><sub>Root cause over quick fixes · `MTTR ↓`</sub> | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) |
 | 📐 **SLI / SLO Engineering**<br/><sub>Latency · traffic · errors · saturation · `99.9%`</sub> | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) |
 | ☁️ **Cloud & IaC**<br/><sub>AWS · GCP · Terraform / OpenTofu · `plan ✔`</sub> | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) |
