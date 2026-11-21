@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-    <img alt="Fabián Muñoz Vásquez — Site Reliability Engineer" src="./assets/hero-dark.svg" width="100%" />
+    <img alt="Fabián Muñoz — Site Reliability Engineer" src="./assets/hero-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -52,7 +52,7 @@
 apiVersion: reliability.fabian.dev/v1
 kind: SiteReliabilityEngineer
 metadata:
-  name: fabian-munoz-vasquez
+  name: fabian-munoz
   namespace: santiago-chile
   labels:
     role: sre
@@ -212,7 +212,7 @@ flowchart LR
 $ echo "Need reliable K8s, clean observability, or AI-assisted ops"
 
 # Step 2 — Page the engineer
-$ page --to "Fabián Muñoz Vásquez" \
+$ page --to "Fabián Muñoz" \
        --severity "let's-talk" \
        --channel https://linkedin.com/in/fabianimv \
        --portfolio https://fabianimv.github.io/portfolio \
