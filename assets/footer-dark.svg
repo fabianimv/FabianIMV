@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" width="900" height="72" role="img" aria-label="Footer — Keeping the lights on from Santiago, Chile">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="50%" stop-color="#17102E"/>
+      <stop offset="100%" stop-color="#0B0F19"/>
+    </linearGradient>
+    <linearGradient id="fline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A855F7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="70" rx="12" fill="url(#fbg)" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="1"/>
+  <rect x="120" y="1" width="660" height="2" fill="url(#fline)"/>
+  <text x="450" y="41" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#CBD5E1">
+    ● fabian.prod · Keeping the lights on from Santiago, Chile · Open to remote &amp; international travel
+  </text>
+</svg>
